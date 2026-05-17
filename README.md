@@ -5,7 +5,7 @@ each exploring a different paradigm.
  
 | Language | Paradigm |
 |----------|----------|
-| Ruby | Object-oriented |
+| python | Object-oriented |
 | Rust | Imperative |
 | Haskell | Functional |
  
@@ -15,7 +15,7 @@ each exploring a different paradigm.
  
 | Year | Ruby | Rust | Haskell |
 |------|------|------|---------|
-| 2025 | 2/12 | 1/12    | —       |
+| 2025 | -    | 1/12    | —       |
 | 2024 | —    | —    | —       |
 | 2023 | —    | —    | —       |
 | 2022 | —    | —    | —       |
