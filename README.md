@@ -13,7 +13,7 @@ each exploring a different paradigm.
  
 ## Progress
  
-| Year | Ruby | Rust | Haskell |
+| Year | python | Rust | Haskell |
 |------|------|------|---------|
 | 2025 | -    | 1/12    | —       |
 | 2024 | —    | —    | —       |
